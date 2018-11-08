@@ -1,0 +1,65 @@
+
+#navnav{
+  padding:0;
+  background-color: white;
+ 
+}
+.container-fluid{
+  padding-left:0;
+  border-bottom: 3px solid #dddddd;
+}
+#logo {
+float: left;
+height: 90px;
+font-family: Georgia, Times, "Times New Roman", serif;
+padding:0 20px 0 20px;
+font-size: 30px;
+font-weight: 700;
+line-height: 90px;
+color: #ffffff;
+text-align: center;
+text-decoration: none;
+background: #4aaaa5;
+
+}
+
+.liitems{
+display: inline-block;
+padding-left: 15px;
+margin-left: 15px;
+line-height: 18px;
+text-decoration: none;
+border-left: 1px solid #efefef;
+}
+#aboutli{
+border-left: none;
+}
+body{
+  background: url("../images/concrete_seamless.png");
+}
+#bg{
+  padding:20px;
+  background-color:white;
+ 
+  margin-bottom: 60px;
+  
+}
+#aboutme{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color: #4aaaa5;
+}
+
+.footer{
+  padding-top:1px;
+  background: #666666;
+  border-top: 8px solid #4aaaa5;
+  position:fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+}
+.row{
+  margin:15px;
+}
+
