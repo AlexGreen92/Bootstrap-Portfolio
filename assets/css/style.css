@@ -30,6 +30,7 @@ margin-left: 15px;
 line-height: 18px;
 text-decoration: none;
 border-left: 1px solid #efefef;
+font-size:20px;
 }
 #aboutli{
 border-left: none;
@@ -45,7 +46,8 @@ body{
   
 }
 #aboutme{
-  font-family: Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-weight: 700;
   color: #4aaaa5;
 }
