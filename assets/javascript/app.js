@@ -71,7 +71,8 @@ loadPortfolio = function(){
                 <div class='col-4'><a href="https://alexgreen92.github.io/RPS-Multiplayer/"><img class='img-fluid' src="assets/images/rps.png"><h3>Rock Paper Scissors Multiplayer</h3></a></div>
             </div>
         <div class='row'>
-            <div class='col-4'><a href='https://veronicavera.github.io/GroupProjectFood/'><img class='img-fluid' src="assets/images/foodCocktail.png"><h3>Food/Cocktail Group Project</h3></a>
+            <div class='col-4'><a href='https://veronicavera.github.io/GroupProjectFood/'><img class='img-fluid' src="assets/images/foodCocktail.png"><h3>Food/Cocktail Group Project</h3></a></div>
+            <div class='col-4'><a href='https://desolate-island-91451.herokuapp.com/'><img class='img-fluid' src="assets/images/ff.png"><h3>Friend Finder App </h3></a></div>
             </div>
         </div>
     </div>
