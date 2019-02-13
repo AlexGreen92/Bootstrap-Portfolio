@@ -86,12 +86,14 @@ loadContacts = function(){
     $('#bg').append(`
         <div class='row'>
             <div class='col'>
-                <h1 id='aboutme'>Contact</h1>
+                <h1 id='aboutme'>Contacts</h1>
             </div>
         </div>
                 <hr>
-           <h4>
-           Email:alexgreen2015@icloud.com
-           </h4> 
+           <h4>Email : alexgreen2015@icloud.com</h4>
+           <h4>Tel : 312-505-9763</h4>
+           <h4>GitHub: https://github.com/AlexGreen92</h4>
+           <h4>LinkedIn : https://www.linkedin.com/in/aliaksandr-chahrynets-1a8276116/</h4>
+
     `)
 }
