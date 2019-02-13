@@ -63,17 +63,20 @@ loadPortfolio = function(){
     <hr>
     <div class='container'>
         <div class='row'>
-            <div class='col-4'><a href="https://alexgreen92.github.io/unit-4-game/"><img class='img-fluid' src="assets/images/pokeball.png"><h3>Pokemon RPG</h3></a></div>
-                <div class='col-4'><a href="https://alexgreen92.github.io/TriviaGame/"><img class='img-fluid' src="assets/images/trivia.png"><h3>Trivia game</h3></a></div>
-            </div>
+            <div class='col-6'><a href="https://alexgreen92.github.io/unit-4-game/"><img class='img-fluid' src="assets/images/pokeball.png"><h3>Pokemon RPG</h3></a></div>
+            <div class='col-6'><a href="https://alexgreen92.github.io/TriviaGame/"><img class='img-fluid' src="assets/images/trivia.png"><h3>Trivia game</h3></a></div>
+        </div>
         <div class='row'>
-            <div class='col-4'><a href="https://alexgreen92.github.io/homework6/"><img class='img-fluid' src="assets/images/giphy.png"><h3>Giphy Api App</h3></a></div>
-                <div class='col-4'><a href="https://alexgreen92.github.io/RPS-Multiplayer/"><img class='img-fluid' src="assets/images/rps.png"><h3>Rock Paper Scissors Multiplayer</h3></a></div>
-            </div>
+            <div class='col-6'><a href="https://alexgreen92.github.io/homework6/"><img class='img-fluid' src="assets/images/giphy.png"><h3>Giphy Api App</h3></a></div>
+            <div class='col-6'><a href="https://alexgreen92.github.io/RPS-Multiplayer/"><img class='img-fluid' src="assets/images/rps.png"><h3>Rock Paper Scissors Multiplayer</h3></a></div>
+        </div>
         <div class='row'>
-            <div class='col-4'><a href='https://veronicavera.github.io/GroupProjectFood/'><img class='img-fluid' src="assets/images/foodCocktail.png"><h3>Food/Cocktail Group Project</h3></a></div>
-            <div class='col-4'><a href='https://desolate-island-91451.herokuapp.com/'><img class='img-fluid' src="assets/images/ff.png"><h3>Friend Finder App </h3></a></div>
-            </div>
+            <div class='col-6'><a href='https://veronicavera.github.io/GroupProjectFood/'><img class='img-fluid' src="assets/images/foodCocktail.png"><h3>Food/Cocktail Group Project</h3></a></div>
+            <div class='col-6'><a href='https://desolate-island-91451.herokuapp.com/'><img class='img-fluid' src="assets/images/ff.png"><h3>Friend Finder App </h3></a></div>
+        </div>
+        <div class='row'>
+            <div class='col-6'><a href = 'https://fast-headland-65580.herokuapp.com/'><img class='img-fluid' src='assets/images/shop.png'><h3>Shop Till you Drop</h3></a></div>
+            <div class='col-6'><a href = 'https://nextpedia.herokuapp.com/'><img class='img-fluid' src='assets/images/next.png'><h3>NextPedia</h3></a></div>
         </div>
     </div>
     `)
@@ -87,20 +90,8 @@ loadContacts = function(){
             </div>
         </div>
                 <hr>
-            <form>
-                <div class="form-group">
-                    <label class='text-secondary'>Name</label>
-                    <input class="form-control" type="text" value="John Smith">
-                </div>
-                <div class="form-group">
-                    <label class='text-secondary'>Email</label>
-                    <input class="form-control" type="email" value="example@gmail.com">
-                </div>
-                <div class="form-group">
-                    <label class='text-secondary'>Message</label>
-                    <textarea class="form-control" rows="10"></textarea>
-                </div>
-                    <button type="button" class='btn btn-info'>Submit</button>
-            </form>    
+           <h4>
+           Email:alexgreen2015@icloud.com
+           </h4> 
     `)
 }
