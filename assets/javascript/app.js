@@ -28,9 +28,8 @@ loadMainPage = function(){
         <div class='col-8'>
         <p class="lead">Full Stack Web Developer with a background in applied math and programming. Strong engineering professional skills in both Front-end and Back-end Development with outstanding knowledge of  HTML CSS and Javascript. Flexible and adaptive to new environments with a high desire to achieve. I enjoy coding, debugging and solving problems. I’m extremely passionate about web development and design in all its forms helping small businesses and artists build and improve their online presence. Always open to learn new and share my knowledge with others. I hold communication in high regard and work well when collaborating with others or independently. Recently I've graduated from Northwestern Coding Bootcamp witch helped me to develop many of the skills required to be a great Web Developer.</p>
         <p class="lead">Education: Belarusian State Univercity 2009-2012 (Applied math and programming)</p>
+        <p class="lead">Northwestern Coding Bootcamp (2019)</p>
         <p class="lead">Online courses : CodeCademy, Coursera , Khan Academy...</p>
-        <p class="lead">Now: Northwestern Coding Bootcamp.</p>
-        <p class="lead">Languages : English, Russian, Belorussian.</p>
         </div>
     </div>
     <div class='row text-secondary'>
@@ -45,7 +44,7 @@ loadMainPage = function(){
         <li class="lead">CMS</li>
         <li class="lead">Profound creative and analytical problem-solving and troubleshooting skills</li>
         <li class="lead">Exceptional organization and presentation abilities</li>
-        <li class="lead">Superior facility with Windows Linux UNIX and MAC operating systems</li>
+        <li class="lead">Superior facility with Windows Linux and MAC operating systems</li>
         </ul>
         </div>
     </div>
