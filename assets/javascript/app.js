@@ -37,14 +37,12 @@ loadMainPage = function(){
         <h3 id="core">Core Skills:</h3>
         <ul id="qua">
         <li class="lead">Outstanding knowledge of web programming languages including HTML CSS JavaScript</li>
-        <li class="lead">Bootstrap / AngularJS / Responsive Web Design</li>
+        <li class="lead">Bootstrap / REACT / AngularJS / Responsive Web Design</li>
         <li class="lead">node.js / npm / git / terminal</li>
         <li class="lead">Google Firebase DB development</li>
         <li class="lead">MongoDb / REST API / MERN stack development</li>
-        <li class="lead">CMS</li>
         <li class="lead">Profound creative and analytical problem-solving and troubleshooting skills</li>
         <li class="lead">Exceptional organization and presentation abilities</li>
-        <li class="lead">Superior facility with Windows Linux and MAC operating systems</li>
         </ul>
         </div>
     </div>
