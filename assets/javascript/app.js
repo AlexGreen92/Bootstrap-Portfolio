@@ -22,9 +22,7 @@ loadMainPage = function(){
     </div>
 <hr>
     <div class='row text-secondary' >
-        <div class='col-4'>
-            <img class="img-fluid"  src="assets/images/alex.jpg">
-        </div>
+      
         <div class='col-8'>
         <p class="lead">Full Stack Web Developer with a background in programming. I enjoy coding, debugging and solving problems. I’m extremely passionate about web development and design in all its forms. I specifically like helping small businesses and artists build and improve their online presence. I have graduated from Northwestern Coding Bootcamp where I developed many of the skills in both Front-end and Back-end Development with outstanding knowledge of HTML, CSS, and Javascript.The combination of my programming skills and expanded development knowledge make me an advantageous team member to any development team. 
 </p>
