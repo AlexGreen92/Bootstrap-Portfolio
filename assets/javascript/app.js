@@ -62,7 +62,7 @@ loadPortfolio = function(){
             <div class='col-6'><a href="https://alexgreen92.github.io/TriviaGame/"><img class='img-fluid' src="assets/images/trivia.png"><h3>Trivia game</h3></a></div>
         </div>
         <div class='row'>
-            <div class='col-6'><a href="https://alexgreen92.github.io/homework6/"><img class='img-fluid' src="assets/images/giphy.png"><h3>Giphy Api App</h3></a></div>
+            <div class='col-6'><a href="https://alexgreen92.github.io/GIPHY-Zoo-Search/"><img class='img-fluid' src="assets/images/giphy.png"><h3>Giphy Api App</h3></a></div>
             <div class='col-6'><a href="https://alexgreen92.github.io/RPS-Multiplayer/"><img class='img-fluid' src="assets/images/rps.png"><h3>Rock Paper Scissors Multiplayer</h3></a></div>
         </div>
         <div class='row'>
