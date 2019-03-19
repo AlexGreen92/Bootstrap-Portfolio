@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    loadMainPage();
+    loadPortfolio();
 
     $('#aboutli').on('click',function(){
         loadMainPage();
@@ -37,11 +37,11 @@ loadMainPage = function(){
         <ul id="qua">
         <li class="lead">Outstanding knowledge of web programming languages including HTML CSS JavaScript</li>
         <li class="lead">Bootstrap / REACT / AngularJS / Responsive Web Design</li>
-        <li class="lead">node.js / npm / git / terminal</li>
+        <li class="lead">node / npm / git / terminal</li>
         <li class="lead">Google Firebase DB development</li>
         <li class="lead">MongoDb / REST API / MERN stack development</li>
-        <li class="lead">Profound creative and analytical problem-solving and troubleshooting skills</li>
-        <li class="lead">Exceptional organization and presentation abilities</li>
+        <li class="lead">AJAX / API / jQuery</li>
+        <li class="lead">Express / SQL / Bootstrap / </li>
         </ul>
         </div>
     </div>
