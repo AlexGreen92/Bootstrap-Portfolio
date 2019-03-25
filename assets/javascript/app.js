@@ -40,7 +40,7 @@ loadMainPage = function(){
         <li class="lead">node / npm / git / terminal</li>
         <li class="lead">Google Firebase DB development</li>
         <li class="lead">MongoDb / REST API / MERN stack development</li>
-        <li class="lead">AJAX / API / jQuery</li>
+        <li class="lead">AJAX / API / jQuery / JSON</li>
         <li class="lead">Express / SQL / Bootstrap / </li>
         </ul>
         </div>
