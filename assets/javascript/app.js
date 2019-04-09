@@ -58,20 +58,20 @@ loadPortfolio = function(){
     <hr>
     <div class='container'>
         <div class='row'>
-            <div class='col-6'><a href="https://alexgreen92.github.io/POKEMON-RPG/"><img class='img-fluid' src="assets/images/pokeball.png"><h3>Pokemon RPG</h3></a></div>
-            <div class='col-6'><a href="https://alexgreen92.github.io/TriviaGame/"><img class='img-fluid' src="assets/images/trivia.png"><h3>Trivia game</h3></a></div>
+            <div class='col-6'><a href="https://alexgreen92.github.io/POKEMON-RPG/"><img class='img-fluid' src="assets/images/pokeball.png"><h3>Pokemon RPG</h3></a></br><a href='https://github.com/AlexGreen92/POKEMON-RPG'><h3>Github Link</h3></a></div>
+            <div class='col-6'><a href="https://alexgreen92.github.io/TriviaGame/"><img class='img-fluid' src="assets/images/trivia.png"><h3>Trivia game</h3></a></br><a href='https://github.com/AlexGreen92/TriviaGame'><h3>Github Link</h3></a></div>
         </div>
         <div class='row'>
-            <div class='col-6'><a href="https://alexgreen92.github.io/GIPHY-Zoo-Search/"><img class='img-fluid' src="assets/images/giphy.png"><h3>Giphy Api App</h3></a></div>
-            <div class='col-6'><a href="https://alexgreen92.github.io/RPS-Multiplayer/"><img class='img-fluid' src="assets/images/rps.png"><h3>Rock Paper Scissors Multiplayer</h3></a></div>
+            <div class='col-6'><a href="https://alexgreen92.github.io/GIPHY-Zoo-Search/"><img class='img-fluid' src="assets/images/giphy.png"><h3>Giphy Api App</h3></a></br><a href='https://github.com/AlexGreen92/GIPHY-Zoo-Search'><h3>Github Link</h3></a></div>
+            <div class='col-6'><a href="https://alexgreen92.github.io/RPS-Multiplayer/"><img class='img-fluid' src="assets/images/rps.png"><h3>Rock Paper Scissors Multiplayer</h3></a></br><a href='https://github.com/AlexGreen92/RPS-Multiplayer'><h3>Github Link</h3></a></div>
         </div>
         <div class='row'>
-            <div class='col-6'><a href='https://veronicavera.github.io/GroupProjectFood/'><img class='img-fluid' src="assets/images/foodCocktail.png"><h3>Food/Cocktail Group Project</h3></a></div>
-            <div class='col-6'><a href='https://desolate-island-91451.herokuapp.com/'><img class='img-fluid' src="assets/images/ff.png"><h3>Friend Finder App </h3></a></div>
+            <div class='col-6'><a href='https://veronicavera.github.io/GroupProjectFood/'><img class='img-fluid' src="assets/images/foodCocktail.png"><h3>Food/Cocktail Group Project</h3></a></br><a href='https://github.com/veronicavera/GroupProjectFood'><h3>Github Link</h3></a></div>
+            <div class='col-6'><a href='https://desolate-island-91451.herokuapp.com/'><img class='img-fluid' src="assets/images/ff.png"><h3>Friend Finder App </h3></a></br><a href='https://github.com/AlexGreen92/friendFinderQ'><h3>Github Link</h3></a></div>
         </div>
         <div class='row'>
-            <div class='col-6'><a href = 'https://fast-headland-65580.herokuapp.com/'><img class='img-fluid' src='assets/images/shop.png'><h3>Shop Till you Drop</h3></a></div>
-            <div class='col-6'><a href = 'https://nextpedia.herokuapp.com/'><img class='img-fluid' src='assets/images/next.png'><h3>NextPedia</h3></a></div>
+            <div class='col-6'><a href = 'https://fast-headland-65580.herokuapp.com/'><img class='img-fluid' src='assets/images/shop.png'><h3>Shop Till you Drop</h3></a></br><a href='https://github.com/Kaleb-kougl/shop-til-you-drop'><h3>Github Link</h3></a></div>
+            <div class='col-6'><a href = 'https://nextpedia.herokuapp.com/'><img class='img-fluid' src='assets/images/next.png'><h3>NextPedia</h3></a></br><a href='https://github.com/veronicavera/NextPedia'><h3>Github Link</h3></a></div>
         </div>
     </div>
     `)
