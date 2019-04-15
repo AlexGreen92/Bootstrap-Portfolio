@@ -58,7 +58,7 @@ loadPortfolio = function(){
     <hr>
     <div class='container'>
         <div class='row'>
-            <div class='col-6'><a href="https://alexgreen92.github.io/POKEMON-RPG/"><img class='img-fluid' src="assets/images/pokeball.png"><h3>Pokemon RPG</h3></a></br><a href='https://github.com/AlexGreen92/POKEMON-RPG'><h3>Github Link</h3></a></div>
+            <div class='col-6 d-flex justify-content-center'><a href="https://alexgreen92.github.io/POKEMON-RPG/"><img class='img-fluid' src="assets/images/pokeball.png"><h3>Pokemon RPG</h3></a></br><a href='https://github.com/AlexGreen92/POKEMON-RPG'><h3>Github Link</h3></a></div>
             <div class='col-6'><a href="https://alexgreen92.github.io/TriviaGame/"><img class='img-fluid' src="assets/images/trivia.png"><h3>Trivia game</h3></a></br><a href='https://github.com/AlexGreen92/TriviaGame'><h3>Github Link</h3></a></div>
         </div>
         <div class='row'>
